@@ -1,5 +1,5 @@
 
-# The Repository contains 
+# Convolve 2.0
 ---
 
 ## Repository Structure
@@ -13,6 +13,7 @@
 ## Dataset
 
 - **Source:** Provided by IDFC First Bank
+- Largescale imbalanced dataset containing bank defualters (mules) as a minority class
 
 ---
 
